@@ -66,7 +66,7 @@ Select the `Execute shell` build step.
 ```
 java -cp target/hello-1.0-SNAPSHOT.jar com.learningjenkins.App
 ```
-Save the job and start the build.
+Save the job and start the build.xxx
 
 ##
 ENC
