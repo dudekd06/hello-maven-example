@@ -3,7 +3,7 @@ This is a small project for demonstrating the Apache Maven build management tool
 
 ## Getting Started
 You will need to have the following tools installed on your system:
-- Git
+- Git vvvv
 - Java
 - Maven
 
